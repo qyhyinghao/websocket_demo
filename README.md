@@ -57,3 +57,6 @@ websocket解决了这个问题，可以实现服务器主动向客户端推送�
 ## websocket的应用
 在线聊天室、在线客服系统
 
+## 真实项目中用得多的相关技术
+https://socket.io/docs/
+
